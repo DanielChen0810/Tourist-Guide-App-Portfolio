@@ -1,0 +1,71 @@
+body{
+  padding: 55px 10%;
+  background-color: #343a40;
+  text-align:center;
+}
+.navbar-brand{
+  font-family: 'Architects Daughter', cursive;
+  font-size: 1.5rem;
+}
+.content{
+  background-color: grey;
+  margin: 50px 0;
+  padding: 10% 15%;
+}
+.aboutMe{
+  margin: auto;
+}
+.carousel-item{
+  padding: 7% 15%;
+}
+.footer p{
+  text-align: center;
+}
+section{
+  padding-top: 10%;
+}
+a{
+  color:white;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: white;
+  border-width: 5px;
+  width: 50%;
+  margin-top: 50px;
+}
+h1{
+  color: white;
+  font-size: 2.5rem;
+  font-weight: bold;
+  padding-bottom: 10px;
+  font-family: 'Architects Daughter', cursive;
+  padding-top: 5%;
+}
+h2{
+  color: white;
+  font-family: 'Architects Daughter', cursive;
+  padding-top: 5%;
+}
+h3{
+  color: white;
+  font-family: 'Architects Daughter', cursive;
+  padding-top: 5%;
+}
+p{
+  line-height: 2;
+  font-size: 1.25rem;
+  padding-top: 5%;
+  text-align: left;
+  color:white;
+}
+.head-img{
+  width: 30%;
+  float: left;
+  margin-right: 5%;
+}
+
+.contributions{
+  clear:left;
+}
